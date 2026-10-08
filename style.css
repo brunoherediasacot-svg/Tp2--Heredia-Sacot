@@ -42,3 +42,9 @@ main, aside{
 main {
     width: calc(80% - 20px); /* Resto 20px para que no colapse por el margin-left y margin-rigth */
 }
+
+section img
+{
+    width: 150px;
+    length: 150px;
+}
