@@ -14,7 +14,7 @@ body {
 header, nav, main, footer {
     padding: 20px;
     margin: 10px;
-    background: rgb(224, 83, 17);
+    background: rgb(247, 135, 83);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(12, 12, 12, 0.1);
 }
